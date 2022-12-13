@@ -1,7 +1,6 @@
 {
   "name": "anghelarodriguez-t10",
   "version": "1.0.0",
-  "description": "",
   "main": "login.js",
   "scripts": {
     "start": "node server.js"
@@ -11,5 +10,14 @@
   "license": "ISC",
   "dependencies": {
     "express": "^4.18.2"
-  }
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AnghelaRodriguezBarrios/AS221S2_T10.git"
+  },
+  "bugs": {
+    "url": "https://github.com/AnghelaRodriguezBarrios/AS221S2_T10/issues"
+  },
+  "homepage": "https://github.com/AnghelaRodriguezBarrios/AS221S2_T10#readme",
+  "description": ""
 }
