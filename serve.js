@@ -9,4 +9,4 @@ console.log('server on port 3000');
 
 //ruta a los archivos 
 app.get('/', (req, res) => {
-    res.sendFile('/home/ubuntu/projects/AS221S2_T10/Institucion.html')});
+    res.sendFile('/home/ubuntu/projects/AS221S2-T10/Institucion.html')});
